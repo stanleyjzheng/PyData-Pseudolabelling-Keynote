@@ -22,7 +22,9 @@
 \[5\] Global Wheat competition: [https://www.kaggle.com/c/global-wheat-detection](https://www.kaggle.com/c/global-wheat-detection)
 - GitHub repo with all code for performance presented in the talk: [https://github.com/stanleyjzheng/Global-Wheat](https://github.com/stanleyjzheng/Global-Wheat)
 
-\[6\] My notebook on pseudolabelling MNIST [https://www.kaggle.com/stanleyjzheng/exploring-pseudolabelling-schemes-pydata](https://www.kaggle.com/stanleyjzheng/exploring-pseudolabelling-schemes-pydata)
+\[6\] The following are solutions from the mentioned competitions: [OpenVaccine 1st](https://www.kaggle.com/c/stanford-covid-vaccine/discussion/189620), [OpenVaccine 2nd](https://www.kaggle.com/c/stanford-covid-vaccine/discussion/189709), [OpenVaccine 3rd](https://www.kaggle.com/c/stanford-covid-vaccine/discussion/189574), [Tweet sentiment extraction 1st](https://www.kaggle.com/c/tweet-sentiment-extraction/discussion/159477), [TReNDS Neuroimaging 1st](https://www.kaggle.com/c/trends-assessment-prediction/discussion/163017), [Global Wheat 1st](https://www.kaggle.com/c/global-wheat-detection/discussion/172418), [LISH-MOA 2nd public](https://www.kaggle.com/c/lish-moa/discussion/200338), [LISH-MOA 5th](https://www.kaggle.com/c/lish-moa/discussion/200533), [TGS Salt Identification 1st](https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/69291)
+
+\[7\] My notebook on pseudolabelling MNIST [https://www.kaggle.com/stanleyjzheng/exploring-pseudolabelling-schemes-pydata](https://www.kaggle.com/stanleyjzheng/exploring-pseudolabelling-schemes-pydata)
 ### Further reading
 * [How to cook pseudo-labels (Kaggle Days)](https://www.youtube.com/watch?v=SsnWM1xWDu4)
 * [Pseudo-Labeling and Confirmation Bias in Deep Semi-Supervised Learning](https://arxiv.org/pdf/1908.02983.pdf)
