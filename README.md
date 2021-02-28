@@ -1,5 +1,10 @@
 # A Guide to Pseudolabelling: How to get a Kaggle medal with only one model
 ## PyData Boston-Cambridge Dec. 2020
+
+Talk now on YouTube: https://youtu.be/c8uWUOSGYUI
+
+Notebook on Kaggle: https://www.kaggle.com/stanleyjzheng/exploring-pseudolabelling-schemes-pydata
+
 ### Get in touch with me
 
 [![](https://img.shields.io/badge/-Email-D44638?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:stanleyjzheng@gmail.com)
